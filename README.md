@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Amisha Achari
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Building interactive websites and Javascript-based applictions. I enjoy working on projects that have a real-world impact and enhance user experience.
+- 📫 How to reach me You can reach me at amishaachari@gmail.com 
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love dancing! It's my favourite way to unwind and express myself.
